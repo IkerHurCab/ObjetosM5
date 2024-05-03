@@ -1,0 +1,3 @@
+﻿  BarquitoObjetoClaseUF3.cpp
+F:\M5_ED\Visual Studio 2022\BarquitoObjetoClaseUF3\BarquitoObjetoClaseUF3\BarquitoObjetoClaseUF3.cpp(108,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  BarquitoObjetoClaseUF3.vcxproj -> F:\M5_ED\Visual Studio 2022\BarquitoObjetoClaseUF3\x64\Debug\BarquitoObjetoClaseUF3.exe
